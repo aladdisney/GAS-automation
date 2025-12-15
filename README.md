@@ -1,3 +1,5 @@
+詳しいコード内容はcode.jsに記載しております。
+
 # 経費申請システム（Google Apps Script）
 
 ## 概要
